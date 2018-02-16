@@ -1,0 +1,2 @@
+参考文献：Java: ローカルホスト名とIPアドレスを取得 ? InetAddress.getLocalHost()メソッド
+ソースコード：http://www.yukun.info/blog/2008/10/java-inetaddress-getlocalhost.html

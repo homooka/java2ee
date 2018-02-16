@@ -1,0 +1,5 @@
+echoサーバーを再度動かせる状態にする
+参考資料:「Java: TCP Socket Echo Server/Client サンプル」
+参考ソースコード:http://www.yukun.info/blog/2011/02/java-tcp-socket-echo.html
+参考資料:テックスコア
+参考ソースコード:http://www.techscore.com/tech/Java/JavaSE/Network/2-3/

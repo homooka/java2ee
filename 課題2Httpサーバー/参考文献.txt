@@ -1,0 +1,2 @@
+参考文献:Java で HTTP クライアントを作ってみよう 
+ソースコードurl:http://x68000.q-e-d.net/~68user/net/java-http-socket-1.html
